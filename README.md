@@ -3,6 +3,9 @@
 > **A production-ready GenAI assistant empowering families, vulnerable populations, and residential communities to navigate severe winter smog and urban atmospheric inversion episodes.**
 
 ---
+This Project Collaboration with GrowthX & AWS 
+Code:- QVFMSU
+Apply link :- https://growthx.club/offcampus?utm_source=referral&utm_medium=offcampus&utm_content=6b01fcbdddcc07e567abd4ba
 
 ## 🏆 Evaluation Compliance Matrix (6 Key Parameters)
 
